@@ -6,8 +6,7 @@
 # Для корректного запуска скрипта Fibonachi требуется ввести номер числа последовательности Фибоначчи, которое нужно найти.
 # Набор команд в PoroSadScript:
 # set value index - инициализирует значение value в ячейку под номером value
-# copy first_index second_index - копирует значение из ячейки с номером first_index в ячейку
-с номером second_index
+# copy first_index second_index - копирует значение из ячейки с номером first_index в ячейку с номером second_index
 # input index - помещает значение ввода в ячейку с номером index
 # output index - выводит значение из ячейки с номером index
 # goif if_index go_index - перемещает исполнение программы в go_index, если ячейка с номером if_index true
