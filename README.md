@@ -1,4 +1,4 @@
-# VMPoroSadScript
+# VMPoroSadScript Бочаров КНМО-101
 # Набор команд в PoroSadScript:
 # set value index - инициализирует значение value в ячейку под номером value
 # copy first_index second_index - копирует значение из ячейки с номером first_index в ячейку
