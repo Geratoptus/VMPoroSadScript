@@ -1,0 +1,16 @@
+input 0
+set $0 5
+isequal 0 5 4
+goif 4 $33
+set $1 1
+set $1 2
+isequal 0 1 4
+goif 4 $39
+increment 1
+mult 1 2 2
+goto $18
+increment 5
+output 5
+goto $41
+output 2
+quit

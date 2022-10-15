@@ -1,0 +1,20 @@
+input 0
+set $1 1
+set $1 7
+set $1 2
+set $1 6
+set $2 3
+set $3 4
+isless 0 4 5
+goif 5 $48
+isequal 3 0 5
+goif 5 $52
+increment 3
+copy 2 6
+sum 1 2 2
+copy 6 1
+goto $27
+output 7
+goto $54
+output 2
+quit

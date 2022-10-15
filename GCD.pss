@@ -1,0 +1,14 @@
+input 0
+input 1
+isequal 0 1 2
+goif 2 $37
+isless 1 0 2
+goif 2 $25
+isless 0 1 2
+goif 2 $31
+sub 0 1 0
+goto $4
+sub 1 0 1
+goto $4
+output 0
+quit
